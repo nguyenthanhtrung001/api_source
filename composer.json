@@ -1,0 +1,11 @@
+{
+    "require": {
+        "moment/moment": "^2.30"
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true,
+            "oomphinc/composer-installers-extender": true
+        }
+    }
+}
